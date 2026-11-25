@@ -1,0 +1,62 @@
+{
+  "site": "tea",
+  "name": {
+    "zh": "茶叶",
+    "en": "Tea"
+  },
+  "domain": "chapu.org",
+  "contentMode": "production",
+  "deployMode": "production",
+  "coreVersion": "1.0.0",
+  "uiVersion": "1.0.0",
+  "brandVersion": "1.0.0",
+  "generatedAt": "2026-11-25T07:13:51.398Z",
+  "pageCount": 334,
+  "kinds": {
+    "home": 2,
+    "catalog": 18,
+    "category": 20,
+    "start": 2,
+    "search": 2,
+    "about": 2,
+    "contribute": 2,
+    "detail": 284,
+    "redirect": 2
+  },
+  "entryCounts": {
+    "brewing": {
+      "zh": 6,
+      "en": 6
+    },
+    "cultivar": {
+      "zh": 7,
+      "en": 7
+    },
+    "guide": {
+      "zh": 5,
+      "en": 5
+    },
+    "processing": {
+      "zh": 7,
+      "en": 7
+    },
+    "region": {
+      "zh": 84,
+      "en": 84
+    },
+    "storage": {
+      "zh": 4,
+      "en": 4
+    },
+    "tea": {
+      "zh": 653,
+      "en": 653
+    }
+  },
+  "searchRecords": 420,
+  "issues": {
+    "errors": 0,
+    "warnings": 0,
+    "items": []
+  }
+}
