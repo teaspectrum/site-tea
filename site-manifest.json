@@ -10,7 +10,7 @@
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-26T03:25:27.581Z",
+  "generatedAt": "2026-11-26T06:14:11.375Z",
   "pageCount": 838,
   "kinds": {
     "home": 2,
@@ -53,7 +53,7 @@
       "en": 652
     }
   },
-  "searchRecords": 1158,
+  "searchRecords": 1182,
   "issues": {
     "errors": 0,
     "warnings": 0,
