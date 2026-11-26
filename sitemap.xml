@@ -52,6 +52,10 @@
   <url><loc>https://chapu.org/brewing/water-quality/</loc></url>
   <url><loc>https://chapu.org/brewing/water-tds/</loc></url>
   <url><loc>https://chapu.org/brewing/water-temperature/</loc></url>
+  <url><loc>https://chapu.org/cultivars/huangjin-gui/</loc></url>
+  <url><loc>https://chapu.org/cultivars/jinxuan/</loc></url>
+  <url><loc>https://chapu.org/cultivars/meizhan/</loc></url>
+  <url><loc>https://chapu.org/cultivars/zhenghe-dabaicha/</loc></url>
   <url><loc>https://chapu.org/guides/amino-acid-umami/</loc></url>
   <url><loc>https://chapu.org/guides/antioxidant-claims/</loc></url>
   <url><loc>https://chapu.org/guides/brewing-troubleshooting/</loc></url>
@@ -255,7 +259,7 @@
   <url><loc>https://chapu.org/teas/huangshan-gongju/</loc></url>
   <url><loc>https://chapu.org/teas/huangshan-maofeng/</loc></url>
   <url><loc>https://chapu.org/teas/huoshan-huangya/</loc></url>
-  <url><loc>https://chapu.org/teas/jinsan-green/</loc></url>
+  <url><loc>https://chapu.org/teas/jinshan-shiyu/</loc></url>
   <url><loc>https://chapu.org/teas/qimen-hongcha-core/</loc></url>
   <url><loc>https://chapu.org/teas/taiping-houkui/</loc></url>
   <url><loc>https://chapu.org/teas/baihao-yinzhen/</loc></url>
@@ -464,6 +468,10 @@
   <url><loc>https://chapu.org/en/brewing/water-quality/</loc></url>
   <url><loc>https://chapu.org/en/brewing/water-tds/</loc></url>
   <url><loc>https://chapu.org/en/brewing/water-temperature/</loc></url>
+  <url><loc>https://chapu.org/en/cultivars/huangjin-gui/</loc></url>
+  <url><loc>https://chapu.org/en/cultivars/jinxuan/</loc></url>
+  <url><loc>https://chapu.org/en/cultivars/meizhan/</loc></url>
+  <url><loc>https://chapu.org/en/cultivars/zhenghe-dabaicha/</loc></url>
   <url><loc>https://chapu.org/en/guides/amino-acid-umami/</loc></url>
   <url><loc>https://chapu.org/en/guides/antioxidant-claims/</loc></url>
   <url><loc>https://chapu.org/en/guides/brewing-troubleshooting/</loc></url>
@@ -667,7 +675,7 @@
   <url><loc>https://chapu.org/en/teas/huangshan-gongju/</loc></url>
   <url><loc>https://chapu.org/en/teas/huangshan-maofeng/</loc></url>
   <url><loc>https://chapu.org/en/teas/huoshan-huangya/</loc></url>
-  <url><loc>https://chapu.org/en/teas/jinsan-green/</loc></url>
+  <url><loc>https://chapu.org/en/teas/jinshan-shiyu/</loc></url>
   <url><loc>https://chapu.org/en/teas/qimen-hongcha-core/</loc></url>
   <url><loc>https://chapu.org/en/teas/taiping-houkui/</loc></url>
   <url><loc>https://chapu.org/en/teas/baihao-yinzhen/</loc></url>

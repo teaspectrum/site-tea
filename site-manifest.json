@@ -10,8 +10,8 @@
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-26T02:02:51.964Z",
-  "pageCount": 826,
+  "generatedAt": "2026-11-26T03:25:27.581Z",
+  "pageCount": 838,
   "kinds": {
     "home": 2,
     "catalog": 24,
@@ -20,8 +20,8 @@
     "search": 2,
     "about": 2,
     "contribute": 2,
-    "detail": 770,
-    "redirect": 2
+    "detail": 778,
+    "redirect": 6
   },
   "entryCounts": {
     "brewing": {
@@ -29,8 +29,8 @@
       "en": 25
     },
     "cultivar": {
-      "zh": 7,
-      "en": 7
+      "zh": 11,
+      "en": 11
     },
     "guide": {
       "zh": 70,
@@ -49,11 +49,11 @@
       "en": 10
     },
     "tea": {
-      "zh": 653,
-      "en": 653
+      "zh": 652,
+      "en": 652
     }
   },
-  "searchRecords": 1134,
+  "searchRecords": 1158,
   "issues": {
     "errors": 0,
     "warnings": 0,
