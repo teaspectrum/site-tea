@@ -6,11 +6,11 @@
   },
   "domain": "chapu.org",
   "contentMode": "production",
-  "deployMode": "pages",
+  "deployMode": "production",
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-26T00:34:24.434Z",
+  "generatedAt": "2026-11-26T02:02:51.964Z",
   "pageCount": 826,
   "kinds": {
     "home": 2,
