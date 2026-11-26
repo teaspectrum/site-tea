@@ -6,54 +6,54 @@
   },
   "domain": "chapu.org",
   "contentMode": "production",
-  "deployMode": "production",
+  "deployMode": "pages",
   "coreVersion": "1.0.0",
   "uiVersion": "1.0.0",
   "brandVersion": "1.0.0",
-  "generatedAt": "2026-11-25T08:20:26.496Z",
-  "pageCount": 334,
+  "generatedAt": "2026-11-26T00:34:24.434Z",
+  "pageCount": 826,
   "kinds": {
     "home": 2,
-    "catalog": 18,
+    "catalog": 24,
     "category": 20,
     "start": 2,
     "search": 2,
     "about": 2,
     "contribute": 2,
-    "detail": 284,
+    "detail": 770,
     "redirect": 2
   },
   "entryCounts": {
     "brewing": {
-      "zh": 6,
-      "en": 6
+      "zh": 25,
+      "en": 25
     },
     "cultivar": {
       "zh": 7,
       "en": 7
     },
     "guide": {
-      "zh": 5,
-      "en": 5
+      "zh": 70,
+      "en": 70
     },
     "processing": {
-      "zh": 7,
-      "en": 7
+      "zh": 25,
+      "en": 25
     },
     "region": {
-      "zh": 84,
-      "en": 84
+      "zh": 85,
+      "en": 85
     },
     "storage": {
-      "zh": 4,
-      "en": 4
+      "zh": 10,
+      "en": 10
     },
     "tea": {
       "zh": 653,
       "en": 653
     }
   },
-  "searchRecords": 420,
+  "searchRecords": 1134,
   "issues": {
     "errors": 0,
     "warnings": 0,
